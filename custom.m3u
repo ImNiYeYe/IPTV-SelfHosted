@@ -24,3 +24,25 @@ https://sk.cri.cn/887.m3u8
 http://npr-ice.streamguys1.com/live.mp3
 #EXTINF:-1 ,power fm
 https://crystalout.surfernetwork.com:8001/KVSP_MP3
+
+
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」英雄联盟 𝟙" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1138" v-w="-1" v-h="-1", 斗鱼英雄联盟 𝟙
+https://live.iill.top/douyu/288016
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」王者荣耀 𝟙" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1085" v-w="-1" v-h="-1", 斗鱼王者荣耀 𝟙
+https://live.iill.top/douyu/1863767
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」绝地求生" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1868" v-w="-1" v-h="-1", 斗鱼绝地求生
+https://live.iill.top/douyu/100
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」和平精英" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1731" v-w="-1" v-h="-1", 斗鱼和平精英
+https://live.iill.top/douyu/999
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」云顶之弈" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1670" v-w="-1" v-h="-1", 斗鱼云顶之弈
+https://live.iill.top/douyu/522423
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」穿越火线 𝟚" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1599" v-w="-1" v-h="-1", 斗鱼穿越火线 𝟚
+https://live.iill.top/douyu/5388537
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」第五人格 " tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1424" v-w="-1" v-h="-1", 斗鱼第五人格 
+https://live.iill.top/douyu/3226194
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」无畏契约 " tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1692" v-w="-1" v-h="-1", 斗鱼无畏契约 
+https://live.iill.top/douyu/4585645
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」QQ飞车•手游" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="2199" v-w="-1" v-h="-1", 斗鱼QQ飞车•手游
+https://live.iill.top/douyu/5040227
+#EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」跑跑卡丁车" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1886" v-w="-1" v-h="-1", 斗鱼跑跑卡丁车
+https://live.iill.top/douyu/7722576
