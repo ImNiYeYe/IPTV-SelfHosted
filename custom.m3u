@@ -1,11 +1,12 @@
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",动物星球
 https://epg.pw/stream/0e38a2ff528e933b9a9dc37acf08f88b9ac4c118cdbba4adac0517303612645e.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="港澳台",黄金翡翠
-http://php.jdshipin.com/smt.php?id=Tvbjade
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="港澳台",翡翠
-http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="",HISTORY頻道
+
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="电影频道", 电影1
 http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="电影频道" tvg-id="null" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" t-time="1210" v-w="0" v-h="0", CHC家庭影院
+http://z.b.bkpcp.top/m.php?id=jtyy
+#EXTINF:-1 group-title="电影频道" tvg-id="null" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" t-time="612" v-w="0" v-h="0", CHC动作电影
+http://z.b.bkpcp.top/m.php?id=dzdy
 
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" group-title="央视频道", CGTN
 https://0472.org/hls/cgtn.m3u8
@@ -13,19 +14,6 @@ https://0472.org/hls/cgtn.m3u8
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-id="153" tvg-logo="https://tb.zbds.top/logo/广东卫视.png" group-title="卫视频道", 广东卫视
 http://39.164.160.249:9901/tsfile/live/0125_1.m3u8
-
-#EXTINF:-1 ,cri easy fm – fm91.5
-http://sk.cri.cn/915.m3u8
-#EXTINF:-1 ,cri hit fm fm88.7
-http://sk.cri.cn/887.m3u8
-#EXTINF:-1 ,cri news plus am846
-http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 ,hitfm国际流行音乐
-https://sk.cri.cn/887.m3u8
-#EXTINF:-1 ,npr news
-http://npr-ice.streamguys1.com/live.mp3
-#EXTINF:-1 ,power fm
-https://crystalout.surfernetwork.com:8001/KVSP_MP3
 
 #EXTINF:-1 group-title="央视频道" tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" t-time="6727" v-w="0" v-h="0", CCTV-1
 http://z.b.bkpcp.top/m.php?id=cctv1
@@ -42,30 +30,6 @@ http://z.b.bkpcp.top/m.php?id=cctv5p
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K8K频道" tvg-id="河北4K" tvg-name="河北4K" tvg-logo="null" t-time="291" v-w="0" v-h="0", 河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-
-#EXTINF:-1 group-title="备用频道" tvg-id="null" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.cn/tv/CHC家庭影院.png" t-time="1210" v-w="0" v-h="0", CHC家庭影院
-http://z.b.bkpcp.top/m.php?id=jtyy
-#EXTINF:-1 group-title="备用频道" tvg-id="null" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.cn/tv/CHC动作电影.png" t-time="612" v-w="0" v-h="0", CHC动作电影
-http://z.b.bkpcp.top/m.php?id=dzdy
-
-#EXTINF:-1 group-title="国际台" tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" t-time="1978" v-w="0" v-h="0", BBC
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 group-title="国际台" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" t-time="1851" v-w="0" v-h="0", CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际台" tvg-id="null" tvg-name="CBC News" tvg-logo="null" t-time="1488" v-w="0" v-h="0", CBC News
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-#EXTINF:-1 group-title="国际台" tvg-id="null" tvg-name="ABC News Live" tvg-logo="null" t-time="1622" v-w="0" v-h="0", ABC News Live
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 group-title="国际台" tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AlJazeera.png" t-time="491" v-w="0" v-h="0", Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="国际台" tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" t-time="2453" v-w="0" v-h="0", Arirang
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际台" tvg-id="701" tvg-name="Fashion" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" t-time="456" v-w="0" v-h="0", Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 group-title="国际台" tvg-id="988" tvg-name="Trace" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" t-time="1623" v-w="0" v-h="0", Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="国际台" tvg-id="null" tvg-name="Wild Earth" tvg-logo="null" t-time="3959" v-w="0" v-h="0", Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 
 #EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」英雄联盟 𝟙" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1138" v-w="-1" v-h="-1", 斗鱼英雄联盟 𝟙
 https://live.iill.top/douyu/288016
@@ -88,5 +52,41 @@ https://live.iill.top/douyu/5040227
 #EXTINF:-1 group-title="游戏" tvg-id="null" tvg-name="「斗鱼」跑跑卡丁车" tvg-logo="https://epg.iill.top/logo/斗鱼.png" t-time="1886" v-w="-1" v-h="-1", 斗鱼跑跑卡丁车
 https://live.iill.top/douyu/7722576
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="电台", cri easy fm – fm91.5
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="电台", cri hit fm fm88.7
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="电台", cri news plus am846
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="电台", hitfm国际流行音乐
+https://sk.cri.cn/887.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="电台", npr news
+http://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="电台", power fm
+https://crystalout.surfernetwork.com:8001/KVSP_MP3
+
+#EXTINF:-1 group-title="国际台" tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghp.ci/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" t-time="1978" v-w="0" v-h="0", BBC
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 group-title="国际台" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" t-time="1851" v-w="0" v-h="0", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际台" tvg-id="null" tvg-name="CBC News" tvg-logo="null" t-time="1488" v-w="0" v-h="0", CBC News
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
+#EXTINF:-1 group-title="国际台" tvg-id="null" tvg-name="ABC News Live" tvg-logo="null" t-time="1622" v-w="0" v-h="0", ABC News Live
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 group-title="国际台" tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AlJazeera.png" t-time="491" v-w="0" v-h="0", Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="国际台" tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ArirangTV.png" t-time="2453" v-w="0" v-h="0", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="国际台" tvg-id="701" tvg-name="Fashion" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" t-time="456" v-w="0" v-h="0", Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="国际台" tvg-id="988" tvg-name="Trace" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png" t-time="1623" v-w="0" v-h="0", Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="国际台" tvg-id="null" tvg-name="Wild Earth" tvg-logo="null" t-time="3959" v-w="0" v-h="0", Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
 #EXTINF:-1 tvg-name="美亚电影" tvg-id="null" tvg-logo="null" group-title="港澳台", 美亚电影台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="港澳台",黄金翡翠
+http://php.jdshipin.com/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="港澳台",翡翠
+http://php.jdshipin.com/smt.php?id=jade_twn
